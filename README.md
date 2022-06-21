@@ -1,6 +1,6 @@
 ## Olá, Me chamo Luis Henrique 😉
 
-- 🔭 Hoje em dia eu trabalho na área de suporte tecnico ao cliente em uma emrpresa de software...
+- 🔭 Hoje em dia eu trabalho como Supervisor no departamento do suporte ao cliente em uma emrpresa de software...
 - 🌱 Estudo PHP 
 - 👯 Faço faculdade de Analise de desenvolvimento e sistema
 - 😄 Tenho 24 anos 
